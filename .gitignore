@@ -63,3 +63,7 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+socialape200515-debf52cbd30e.json
+
+./functions/util/config.js
